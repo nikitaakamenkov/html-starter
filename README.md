@@ -8,7 +8,7 @@
 <meta charset="UTF-8">
 <body>
  <a href="https://mail.google.com/mail/u/0/k">
-<img src="6.png"Картинка" style="position: absolute; top: 10px; right: 10px; width:  80px;">
+<img src="6.png" style="position: absolute; top: 10px; right: 10px; width:  80px;">
 </a>
 
 <style>
@@ -111,18 +111,7 @@
     <a href="https://vk.com" target="_blank">
       <img src="5.png" alt="Картинка 3">
     </a>
-</body>
-  
-
-
-
-
-
-
-
-
-
-
+  </body>
          </DIV>
  
       <DIV class="column">
