@@ -7,12 +7,6 @@
 
 <meta charset="UTF-8">
 <body>
-
-<body>
- 
-  <center><img src="12.png"></center>
-    </a>
-</body>
         <TITLE>Google</TITLE>
 
         <body>
