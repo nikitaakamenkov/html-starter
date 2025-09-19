@@ -7,9 +7,6 @@
 
 <meta charset="UTF-8">
 <body>
- <a href="https://mail.google.com/mail/u/0/k">
-<img src="6.png"Картинка" style="position: absolute; top: 10px; right: 10px; width:  80px;">
-</a>
 
 <style>
     .gallery {
@@ -104,12 +101,6 @@
   <div class="gallery">
     <a href="https://www.youtube.com" target="_blank">
       <img src="1.png" alt="Картинка 1">
-    </a>
-    <a href="https://ya.ru" target="_blank">
-      <img src="2.png" alt="Картинка 2">
-    </a>
-    <a href="https://vk.com" target="_blank">
-      <img src="5.png" alt="Картинка 3">
     </a>
 </body>
   
