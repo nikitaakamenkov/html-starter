@@ -10,7 +10,7 @@
 
 <body>
  
-  <center><img src="12.png" alt="Картинка 3"></center>
+  <center><img src="12.png"></center>
     </a>
 </body>
         <TITLE>Google</TITLE>
