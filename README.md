@@ -64,27 +64,11 @@
   </form>
 
 </div>
-  <DIV class="column">
-  <style>
-    .gallery {
-      display: flex;       /* картинки идут в ряд */
-      gap: 20px;           /* отступы между ними */
-      justify-content: center; /* выравнивание по центру */
-    }
-    .gallery img {
-      width: 50px;        /* ширина картинки */
-      border-radius: 10px; /* скругление углов (необязательно) */
-      transition: 0.3s;    /* плавный эффект */
-    }
-    .gallery img:hover {
-      transform: scale(1.05); /* лёгкое увеличение при наведении */
-    }
-  </style>
-</head>
+ 
 <body>
   <div class="gallery">
-    <a href="https://www.youtube.com" target="_blank">
-      <img src="1.png" alt="Картинка 1">
+  
+    
     </a>
 </body>
   
