@@ -7,8 +7,51 @@
 
 <meta charset="UTF-8">
 <body>
- <a href="https://mail.google.com/mail/u/0/k">
-<img src="6.png"Картинка" style="position: absolute; top: 10px; right: 10px; width:  80px;">
+ <style>
+    .top-right {
+      position: absolute; /* закрепляем блок */
+      top: 20px;          /* отступ сверху */
+      right: 100px;        /* отступ справа */
+      display: flex;      /* размещаем элементы горизонтально */
+      gap: 15px;          /* расстояние между текстами */
+    }
+  </style>
+</head>
+<body>
+  <div class="top-right">
+  <a href="https://mail.google.com" target="_blank"><div>Почта</div></a>
+  <a href="https://www.google.com/imghp?hl=ru&tab=ri&authuser=0&ogbl" target="_blank"><div>Картинки</div></a>
+    <div></div>
+  </div>
+</body>
+</html>
+
+<a href="https://myaccount.google.com/?hl=ru&utm_source=OGB&utm_medium=act&gar=WzJd" target="_blank"><img src="111.png"Картинка" style="position: absolute; top: 10px; right: 10px; width: 70px;"> </a>
+
+<style>
+    .gallery {
+      display: flex;       /* картинки идут в ряд */
+      gap: 20px;           /* отступы между ними */
+      justify-content: center; /* выравнивание по центру */
+    }
+    .gallery img {
+      width: 40px;        /* ширина картинки */
+      border-radius: 10px; /* скругление углов (необязательно) */
+      transition: 0.3s;    /* плавный эффект */
+    }
+    .gallery img:hover {
+      transform: scale(1.05); /* лёгкое увеличение при наведении */
+    }
+  </style>
+</head>
+<body>
+
+
+
+
+
+ <a href="https://myaccount.google.com/?hl=ru&utm_source=OGB&utm_medium=act&gar=WzJd ">
+<img src="111.png"Картинка" style="position: absolute; top: 10px; right: 10px; width:  80px;">
 </a>
 
 <style>
